@@ -5,19 +5,30 @@
   "heist_queues": {
     "diamond": {
       "enabled": true,
-      "mode": "legacy"
+      "mode": "legacy",
+      "players": [
+        {
+          "discordId": "1412688582229098560",
+          "displayName": "sharon097967",
+          "scName": "MR_MOZA",
+          "joinedAt": 1772918304197
+        }
+      ]
     },
     "doomsday": {
       "enabled": true,
-      "mode": "legacy"
+      "mode": "legacy",
+      "players": []
     },
     "cayo": {
       "enabled": true,
-      "mode": "legacy"
+      "mode": "legacy",
+      "players": []
     },
     "pacific": {
       "enabled": true,
-      "mode": "legacy"
+      "mode": "legacy",
+      "players": []
     }
   },
   "dash_channel_id": "1452301871086702712",
