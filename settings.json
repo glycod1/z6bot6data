@@ -1,6 +1,7 @@
 {
   "dm_message": "I have added you in GTA, please accept the friend request as soon as possible! (usually takes 2-3 minutes to appear)",
   "cooldown_ms": 0,
+  "modder_role_id": "1446058693270568992",
   "heist_queues": {
     "diamond": {
       "enabled": true,
