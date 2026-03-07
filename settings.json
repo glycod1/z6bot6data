@@ -1,1 +1,24 @@
-{}
+{
+  "dm_message": "I have added you in GTA, please accept the friend request as soon as possible! (usually takes 2-3 minutes to appear)",
+  "cooldown_ms": 0,
+  "heist_queues": {
+    "diamond": {
+      "enabled": true,
+      "mode": "legacy"
+    },
+    "doomsday": {
+      "enabled": true,
+      "mode": "legacy"
+    },
+    "cayo": {
+      "enabled": true,
+      "mode": "legacy"
+    },
+    "pacific": {
+      "enabled": true,
+      "mode": "legacy"
+    }
+  },
+  "dash_channel_id": null,
+  "dash_message_id": null
+}
