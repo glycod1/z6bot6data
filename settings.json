@@ -4,19 +4,19 @@
   "modder_role_id": "1446058693270568992",
   "heist_queues": {
     "diamond": {
-      "enabled": true,
+      "enabled": false,
       "mode": "legacy"
     },
     "doomsday": {
-      "enabled": true,
+      "enabled": false,
       "mode": "legacy"
     },
     "cayo": {
-      "enabled": true,
+      "enabled": false,
       "mode": "legacy"
     },
     "pacific": {
-      "enabled": true,
+      "enabled": false,
       "mode": "legacy"
     }
   },
