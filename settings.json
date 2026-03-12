@@ -6,14 +6,7 @@
     "diamond": {
       "enabled": true,
       "mode": "legacy",
-      "players": [
-        {
-          "discordId": "1202958070494535693",
-          "displayName": "g_o.1",
-          "scName": "ColdNasserrr",
-          "joinedAt": 1773280174684
-        }
-      ]
+      "players": []
     },
     "doomsday": {
       "enabled": true,
