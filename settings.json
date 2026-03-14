@@ -52,5 +52,6 @@
   "sticky_stats_msg": {
     "channelId": null,
     "messageId": null
-  }
+  },
+  "queue_image_url": null
 }
