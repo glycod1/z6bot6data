@@ -27,14 +27,14 @@
   "dash_channel_id": "1446058437317492801",
   "dash_message_id": "1482264637566222380",
   "heist_channels": {
-    "categoryId": "",
-    "diamond": "",
-    "doomsday": "",
-    "cayo": "",
-    "pacific": ""
+    "categoryId": "1482274933164740684",
+    "diamond": "1482274935379591281",
+    "doomsday": "1482274936302207058",
+    "cayo": "1482274938001031238",
+    "pacific": "1482274938839634091"
   },
   "accepted_category": {
-    "categoryId": ""
+    "categoryId": "1482274939556986971"
   },
   "sticky_stats_msg": {
     "channelId": null,
