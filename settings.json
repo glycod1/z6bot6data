@@ -18,19 +18,20 @@
           "displayName": "sharon097967",
           "scName": "TheMonarch0",
           "joinedAt": 1773467727473
-        },
-        {
-          "discordId": "1202958070494535693",
-          "displayName": "g_o.1",
-          "scName": "ColdNasserrr",
-          "joinedAt": 1773469836091
         }
       ]
     },
     "doomsday": {
       "enabled": true,
       "mode": "legacy",
-      "players": []
+      "players": [
+        {
+          "discordId": "1202958070494535693",
+          "displayName": "g_o.1",
+          "scName": "ColdNasserrr",
+          "joinedAt": 1773469848132
+        }
+      ]
     },
     "cayo": {
       "enabled": true,
