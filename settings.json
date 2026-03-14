@@ -6,14 +6,7 @@
     "diamond": {
       "enabled": true,
       "mode": "legacy",
-      "players": [
-        {
-          "discordId": "1412688582229098560",
-          "displayName": "sharon097967",
-          "scName": "need69",
-          "joinedAt": 1773494463435
-        }
-      ]
+      "players": []
     },
     "doomsday": {
       "enabled": true,
