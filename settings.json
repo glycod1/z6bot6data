@@ -1,7 +1,7 @@
 {
   "dm_message": "I have added you in GTA, please accept the friend request as soon as possible! (usually takes 2-3 minutes to appear)",
   "cooldown_ms": 0,
-  "modder_role_id": "",
+  "modder_role_id": null,
   "heist_queues": {
     "diamond": {
       "enabled": true,
@@ -24,17 +24,17 @@
       "players": []
     }
   },
-  "dash_channel_id": "",
-  "dash_message_id": "",
+  "dash_channel_id": null,
+  "dash_message_id": null,
   "heist_channels": {
-    "categoryId": "",
-    "diamond": "",
-    "doomsday": "",
-    "cayo": "",
-    "pacific": ""
+    "categoryId": "1482695958621061161",
+    "diamond": "1482695960290394313",
+    "doomsday": "1482695961418666087",
+    "cayo": "1482695962634879067",
+    "pacific": "1482695963091927084"
   },
   "accepted_category": {
-    "categoryId": ""
+    "categoryId": "1482695964274851890"
   },
   "sticky_stats_msg": {
     "channelId": null,
