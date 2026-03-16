@@ -6,26 +6,7 @@
     "diamond": {
       "enabled": true,
       "mode": "legacy",
-      "players": [
-        {
-          "discordId": "1412688582229098560",
-          "displayName": "sharon097967",
-          "scName": "Lord_Nasser",
-          "joinedAt": 1773637035262
-        },
-        {
-          "discordId": "755604760048173137",
-          "displayName": "medo.7",
-          "scName": "-Medo-1",
-          "joinedAt": 1773637046559
-        },
-        {
-          "discordId": "1028485128512602122",
-          "displayName": "ahmed_gp",
-          "scName": "GPG_X",
-          "joinedAt": 1773637081426
-        }
-      ]
+      "players": []
     },
     "doomsday": {
       "enabled": true,
