@@ -47,5 +47,11 @@
     "channelId": null,
     "messageId": null
   },
-  "queue_image_url": null
+  "queue_image_url": null,
+  "sc_session": {
+    "nickname": "ColdNasserrr",
+    "scAuthToken": "AAAAAgECEA6Rx1dc90lQDo2nsDONVSJHAMvM0Wbl8tUjrB2yWkrvHPgXlyMqCK7RtEpIyjULpzmNAtVUIzAdScKTB4zHFqASrN0P+/dYfkgxVkEmuKWAxCBWxhDjMSMeqm7gGzYTQxt/o4u0CKRP4QWxCCopHKm+",
+    "setupAt": 1773666522813,
+    "expiresAt": 1776258522813
+  }
 }
