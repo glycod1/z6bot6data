@@ -6,7 +6,14 @@
     "diamond": {
       "enabled": true,
       "mode": "legacy",
-      "players": []
+      "players": [
+        {
+          "discordId": "1259844815831699497",
+          "displayName": "moaaz0811",
+          "scName": "MR_MOZA",
+          "joinedAt": 1773651971802
+        }
+      ]
     },
     "doomsday": {
       "enabled": true,
