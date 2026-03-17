@@ -1,7 +1,5 @@
 {
-  "autocheck_channel_ids": [
-    "1378708165889228861"
-  ],
+  "autocheck_channel_ids": [],
   "welcome_sc_enabled": true,
   "welcome_sc_message": "👋 Welcome!\n\nPlease verify your **Rockstar Social Club username** by typing it in {channel}."
 }
