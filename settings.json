@@ -48,7 +48,7 @@
     "messageId": null
   },
   "queue_image_url": null,
-  "autocheck_channel_id": null,
+  "autocheck_channel_ids": [],
   "welcome_sc_enabled": true,
   "welcome_sc_message": "👋 Welcome to **The Gangs**!\n\nTo join heist queues, please verify your **Rockstar Social Club username**.\nSimply type your exact SC username in <#AUTOCHECK_CHANNEL> and the bot will check it automatically.\n\nIf you don't have a Social Club account, create one at https://socialclub.rockstargames.com"
 }
