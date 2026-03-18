@@ -16,14 +16,7 @@
     "cayo": {
       "enabled": true,
       "mode": "legacy",
-      "players": [
-        {
-          "discordId": "695320528839245856",
-          "displayName": "qgb5",
-          "scName": "Omargamer4268ali",
-          "joinedAt": 1773806393295
-        }
-      ]
+      "players": []
     },
     "pacific": {
       "enabled": true,
