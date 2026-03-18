@@ -21,20 +21,7 @@
     "pacific": {
       "enabled": true,
       "mode": "legacy",
-      "players": [
-        {
-          "discordId": "1241494813195370693",
-          "displayName": "ahmed3mk00",
-          "scName": null,
-          "joinedAt": 1773801027000
-        },
-        {
-          "discordId": "695320528839245856",
-          "displayName": "qgb5",
-          "scName": "Omargamer4268ali",
-          "joinedAt": 1773806505919
-        }
-      ]
+      "players": []
     }
   },
   "dash_channel_id": "1483635008316117133",
