@@ -11,7 +11,14 @@
     "doomsday": {
       "enabled": true,
       "mode": "legacy",
-      "players": []
+      "players": [
+        {
+          "discordId": "695320528839245856",
+          "displayName": "qgb5",
+          "scName": "Omargamer4268ali",
+          "joinedAt": 1773806484501
+        }
+      ]
     },
     "cayo": {
       "enabled": true,
