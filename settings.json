@@ -4,22 +4,22 @@
   "modder_role_id": null,
   "heist_queues": {
     "diamond": {
-      "enabled": true,
+      "enabled": false,
       "mode": "legacy",
       "players": []
     },
     "doomsday": {
-      "enabled": true,
+      "enabled": false,
       "mode": "legacy",
       "players": []
     },
     "cayo": {
-      "enabled": true,
+      "enabled": false,
       "mode": "legacy",
       "players": []
     },
     "pacific": {
-      "enabled": true,
+      "enabled": false,
       "mode": "legacy",
       "players": []
     }
