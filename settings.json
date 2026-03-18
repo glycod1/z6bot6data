@@ -11,19 +11,19 @@
     "doomsday": {
       "enabled": true,
       "mode": "legacy",
+      "players": []
+    },
+    "cayo": {
+      "enabled": true,
+      "mode": "legacy",
       "players": [
         {
           "discordId": "695320528839245856",
           "displayName": "qgb5",
           "scName": "Omargamer4268ali",
-          "joinedAt": 1773806484501
+          "joinedAt": 1773806489629
         }
       ]
-    },
-    "cayo": {
-      "enabled": true,
-      "mode": "legacy",
-      "players": []
     },
     "pacific": {
       "enabled": true,
