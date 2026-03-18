@@ -21,7 +21,14 @@
     "pacific": {
       "enabled": true,
       "mode": "legacy",
-      "players": []
+      "players": [
+        {
+          "discordId": "1241494813195370693",
+          "displayName": "ahmed3mk00",
+          "scName": null,
+          "joinedAt": 1773801027000
+        }
+      ]
     }
   },
   "dash_channel_id": "1483635008316117133",
